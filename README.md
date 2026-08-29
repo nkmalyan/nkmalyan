@@ -1,7 +1,36 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Nitin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Integrations%20|%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<h2 align="center">Full-Stack Developer & Software Engineer</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2ZzZ4d2d4d3FjM3c4eXJ5MnB1aW05eW84anRxYTN0Y3pldW5qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="260" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/nkmalyan"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nkmalyan&label=PROFILE+VIEWS&style=flat-square&color=blue" />
+</p>
+
+---
+
+### 💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+```typescript
 class Developer {
     readonly name: string = "Nitin Kumar";
     readonly location: string = "🇮🇳 MNNIT Allahabad, India";
-    readonly education: string = "B.Tech Electrical Engineering (2022-2026)";
+    readonly education: string = "B.Tech (2022-2026)";
     
     private skills = {
         languages: ["C++", "JavaScript", "TypeScript", "SQL"],
@@ -9,74 +38,28 @@ class Developer {
         frontend: {
             frameworks: ["React.js", "Next.js"],
             styling: ["TailwindCSS", "shadcn/ui"],
-            stateManagement: ["Zustand"]
+            state: ["Zustand", "Context API"]
         },
         
         backend: {
             runtime: ["Node.js", "Express.js"],
             databases: ["PostgreSQL", "MongoDB", "Neon DB"],
-            orm: ["Prisma ORM"],
+            orm: ["Prisma"],
             communication: ["REST APIs", "Socket.io (WebSockets)"]
         },
         
-        ai_and_tools: [
-            "Gemini API",
-            "Generative AI Workflows",
-            "Git",
-            "GitHub",
-            "Postman",
-            "VS Code"
-        ]
+        ai_and_cloud: {
+            models: ["Gemini API", "LLM Orchestration"],
+            deployment: ["Render", "Git", "GitHub"]
+        }
     };
-    
-    competitive = {
-        dsa: "Practicing DSA patterns in C++ & Java",
-        platforms: ["LeetCode", "GeeksforGeeks", "Coding Ninjas"]
-    };
-    
+
     getCurrentFocus(): string[] {
         return [
-            "🚀 Building full-stack GenAI web applications",
-            "⚡ Scaling real-time systems using WebSockets",
-            "🎯 Advanced DSA & Core Engineering Concepts",
-            "📚 System Design & Backend Architecture"
+            "🤖 Agentic AI & Intelligent Web Workflows",
+            "⚡ High-performance Backend Architectures",
+            "🧩 Advanced DSA in C++",
+            "🚀 End-to-End Production Systems"
         ];
-    }
-    
-    getFeaturedProjects(): string[] {
-        return [
-            "🤖 PREPO - AI-Powered Career Prep Platform (Next.js + Gemini API)",
-            "💬 Real-Time Chat Engine (Socket.io + Zustand)",
-            "📝 Full-Stack MERN Blog Application"
-        ];
-    }
-    
-    funFact(): string {
-        return "I turn logic into scalable code 💻 and ideas into AI-driven products! 🚀";
     }
 }
-
-const me = new Developer();
-console.log(me.getCurrentFocus());
-
----
-
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkmalyan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkmalyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/nitin-kumar-7aab74222]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nitinkumarmalyan.010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
