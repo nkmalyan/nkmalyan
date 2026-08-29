@@ -5,7 +5,7 @@
 <h2 align="center">Full-Stack Developer & Software Engineer</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="260" />
+  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="480" />
 </div>
 
 <p align="center">
@@ -63,3 +63,54 @@ class Developer {
         ];
     }
 }
+
+🚀 Featured Projects
+Project Overview:
+
+An intelligent interview and career readiness engine integrating Gemini LLM for automated content synthesis and dynamic mock assessments.
+
+Tech Architecture:
+- Frontend: Next.js 14, TypeScript, Tailwind CSS, shadcn/ui
+- Backend: Next.js Server Actions, REST APIs
+- Database & Auth: PostgreSQL (Neon DB), Prisma ORM, Clerk Auth
+- AI Integration: Google Gemini API (Structured JSON generation)
+Key Features:
+
+Dynamic AI mock test generation
+
+Instant detailed feedback & scoring
+
+Secure authenticated sessions & role control
+
+Performance & Optimizations:
+
+Sub-second serverless execution
+
+Responsive, accessible UI components
+
+Clean ORM schemas with Prisma & Neon DB
+
+Project Overview:
+
+A low-latency, bidirectional chat platform built for instant group messaging and user presence tracking.
+
+System Architecture:
+- Client: React.js, Zustand State Management, Tailwind CSS
+- Server: Node.js, Express.js, Socket.io
+- Database: MongoDB Atlas
+- Auth: JSON Web Tokens (JWT)
+Real-Time Capabilities:
+
+WebSocket bidirectional channels
+
+Online/offline user indicators
+
+Dynamic typing feedback
+
+Scalability & Security:
+
+State persistence with Zustand
+
+Secure JWT handshake authentication
+
+Optimized payload delivery
