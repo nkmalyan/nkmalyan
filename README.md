@@ -5,7 +5,7 @@
 <h2 align="center">Full-Stack Developer & Software Engineer</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="480" />
+  <img src="[https://raw.githubusercontent.com/yasiwes/yasiwes/main/assets/developer.gif]" width="480" />
 </div>
 
 <p align="center">
