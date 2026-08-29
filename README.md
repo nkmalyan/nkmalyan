@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Nitin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Integrations%20|%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Nitin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20|%20Problem%20Solver%20|%20Innovation%20Driver&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<h2 align="center">Full-Stack Developer & Software Engineer</h2>
+<h2 align="center">Full-Stack Developer and Architect</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/yasiwes/yasiwes/main/assets/developer.gif" width="480" />
 </div>
 
 <p align="center">
@@ -38,79 +38,47 @@ class Developer {
         frontend: {
             frameworks: ["React.js", "Next.js"],
             styling: ["TailwindCSS", "shadcn/ui"],
-            state: ["Zustand", "Context API"]
+            tools: ["Vite", "Zustand"]
         },
         
         backend: {
             runtime: ["Node.js", "Express.js"],
             databases: ["PostgreSQL", "MongoDB", "Neon DB"],
-            orm: ["Prisma"],
-            communication: ["REST APIs", "Socket.io (WebSockets)"]
+            orm: ["Prisma", "Mongoose"],
+            apis: ["REST", "WebSockets (Socket.io)"]
         },
         
-        ai_and_cloud: {
-            models: ["Gemini API", "LLM Orchestration"],
-            deployment: ["Render", "Git", "GitHub"]
+        ai_and_devOps: {
+            ai: ["Gemini API", "Agentic Workflows"],
+            tools: ["Git", "GitHub", "Postman", "Render"]
         }
     };
 
     getCurrentFocus(): string[] {
         return [
-            "🤖 Agentic AI & Intelligent Web Workflows",
-            "⚡ High-performance Backend Architectures",
-            "🧩 Advanced DSA in C++",
-            "🚀 End-to-End Production Systems"
+            "🎯 Mastering Distributed Systems & Microservices",
+            "🤖 Integrating Agentic AI Workflows",
+            "🚀 Building Production-Ready Full-Stack Apps",
+            "📚 Advanced System Design & Scalability"
         ];
+    }
+
+    funFact(): string {
+        return "I turn coffee ☕ into code 💻 and bugs into features! 😄";
     }
 }
 
-🚀 Featured Projects
-Project Overview:
-
-An intelligent interview and career readiness engine integrating Gemini LLM for automated content synthesis and dynamic mock assessments.
-
-Tech Architecture:
-- Frontend: Next.js 14, TypeScript, Tailwind CSS, shadcn/ui
+const me = new Developer();
+console.log(me.getCurrentFocus());
+🚀 Featured Projects🤖 PREPO - AI-Powered Career Prep Platform Status: LiveProject Overview:An intelligent career preparation platform integrating Google Gemini LLM for automated interview content synthesis, structured assessments, and instant dynamic evaluation.Tech Architecture:
+- Frontend: Next.js 14 (App Router), TypeScript, Tailwind CSS, shadcn/ui
 - Backend: Next.js Server Actions, REST APIs
-- Database & Auth: PostgreSQL (Neon DB), Prisma ORM, Clerk Auth
-- AI Integration: Google Gemini API (Structured JSON generation)
-Key Features:
-
-Dynamic AI mock test generation
-
-Instant detailed feedback & scoring
-
-Secure authenticated sessions & role control
-
-Performance & Optimizations:
-
-Sub-second serverless execution
-
-Responsive, accessible UI components
-
-Clean ORM schemas with Prisma & Neon DB
-
-Project Overview:
-
-A low-latency, bidirectional chat platform built for instant group messaging and user presence tracking.
-
-System Architecture:
-- Client: React.js, Zustand State Management, Tailwind CSS
-- Server: Node.js, Express.js, Socket.io
-- Database: MongoDB Atlas
-- Auth: JSON Web Tokens (JWT)
-Real-Time Capabilities:
-
-WebSocket bidirectional channels
-
-Online/offline user indicators
-
-Dynamic typing feedback
-
-Scalability & Security:
-
-State persistence with Zustand
-
-Secure JWT handshake authentication
-
-Optimized payload delivery
+- Database: PostgreSQL (Neon DB), Prisma ORM
+- Auth & AI: Clerk Auth, Google Gemini Pro API
+- Infrastructure: Deployed on Vercel / Render
+🔒 Security & AuthenticationJWT & Clerk AuthenticationRole-Based Access Control (RBAC)Multi-factor session safeguardsProtected Server Actions⚡ Performance OptimizationsSub-second serverless executionServer-Side Rendering (SSR) & StreamingStructured JSON parsing for LLM outputsOptimized Prisma connection pooling📊 Performance MetricsMetricBeforeAfterImprovementQuiz Generation Latency3.5s1.1s⚡ 68%API Response Time900ms310ms🚀 65%Page Load Time3.2s1.2s⚡ 62%System Uptime-99.9%🟩 Live💬 ChatSync - Real-Time Collaboration Engine Status: ProductionProject Overview:A low-latency, bidirectional real-time chat application engineered with WebSockets, structured state persistence, and instant event routing.System Architecture:
+- Frontend: React.js, Zustand State Management, Tailwind CSS
+- Backend: Node.js, Express.js, Socket.io
+- Database: MongoDB Atlas, Mongoose
+- Security: JSON Web Tokens (JWT)
+🚀 Real-Time CommunicationWebSocket bidirectional channels<100ms message delivery latencyLive online/offline presence indicatorsDynamic typing status signals📦 Architecture & ReliabilityScalable Socket room allocationsClient-side cache sync with ZustandSecure handshake JWT verificationError boundary event recovery
