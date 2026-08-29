@@ -5,7 +5,7 @@
 <h2 align="center">Full-Stack Developer & Software Engineer</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2ZzZ4d2d4d3FjM3c4eXJ5MnB1aW05eW84anRxYTN0Y3pldW5qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="260" />
+  <img src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif" width="480" height="260" />
 </div>
 
 <p align="center">
