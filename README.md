@@ -84,19 +84,7 @@ class Developer {
 
 const me = new Developer();
 console.log(me.getCurrentFocus());
-🧩 Competitive Programming & Problem SolvingProblem-Solving Matrix:
-- Primary Language: C++ (STL)
-- Core Patterns: Two Pointers, Sliding Window, DP, Graph Traversals (BFS/DFS), Monotonic Stack
-- CS Fundamentals: OOPs, DBMS, Operating Systems, Computer Networks
-🛠️ Tech ArsenalLanguagesFrontend DevelopmentBackend, Databases & RealtimeAI, Cloud & Tools💼 Leadership & Professional Journey🎓 Dakshana Student's MentorRole: Student Mentor & Evaluator | Status: CompletedAcademic Mentorship: Mentored aspiring engineering students in core STEM subjects and structured analytical problem-solving.National Scholarship Execution: Coordinated and administered the pan-India Dakshana Scholarship Test.Mentorship Impact: Guided 50+ students in structured algorithmic logic and competitive readiness.🚀 Featured Projects🤖 PREPO - AI-Powered Career Preparation Platform Status: LiveProject Overview:An intelligent full-stack career readiness engine serving 100+ active users, integrating Google Gemini LLM for dynamic resume compilation, customized cover letters, and auto-generated mock assessments.Tech Architecture:
-- Frontend: Next.js 14 (App Router), TypeScript, Tailwind CSS, shadcn/ui
-- Backend: Next.js Server Actions, Inngest Background Tasks, REST APIs
-- Database & ORM: PostgreSQL (Neon DB), Prisma ORM
-- Authentication: Clerk Auth & JWT Handshake
-- AI Engine: Google Gemini Pro API (Structured JSON generation)
-- Hosting: Vercel Cloud
-🔒 Security & OrchestrationBackground sync via Inngest serverless workersEnd-to-end Clerk Auth session lifecycleProtected Server Actions & input sanitizationClean relational schema design via Prisma⚡ Performance & FeaturesResume-based mock quizzes with dynamic feedbackSub-second serverless execution responseAutomated cover letter drafting engineSeamless cross-device accessible UI📊 Performance MetricsMetricBeforeAfterImprovementQuiz Generation Latency3.5s1.1s⚡ 68%API Response Time850ms290ms🚀 65%Page Load Time3.0s1.1s⚡ 63%System Uptime-99.9%🟩 Live💬 ChatSync - Real-Time Distributed Chat Engine Status: ProductionProject Overview:An enterprise-grade, bidirectional messaging platform engineered with WebSockets for instantaneous real-time group conversations, personal DM routing, and file streaming.System Architecture:
-- Frontend: React.js, Zustand State Management, Tailwind CSS, shadcn/ui
+
 - Backend: Node.js, Express.js, Socket.io
 - Database: MongoDB Atlas, Mongoose
 - Media & Security: Multer File Streaming, JSON Web Tokens (JWT)
