@@ -5,13 +5,13 @@
 <h2 align="center">Full-Stack Developer and Architect</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yasiwes/yasiwes/main/assets/developer.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="480" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nkmalyan"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/nkmalyan"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:nitinkumarmalyan.010@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -19,9 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=nkmalyan&label=PROFILE+VIEWS&style=flat-square&color=blue" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💻 About Me
+### 👨‍💻 About Me
 
 <table>
 <tr>
@@ -34,12 +34,12 @@ class Developer {
     readonly education: string = "B.Tech Electrical Engineering (2022-2026)";
     
     private skills = {
-        languages: ["C++", "C", "JavaScript", "TypeScript", "SQL", "HTML/CSS"],
+        languages: ["C++", "C", "JavaScript", "TypeScript", "SQL"],
         
         frontend: {
             frameworks: ["React.js", "Next.js 14"],
             styling: ["TailwindCSS", "shadcn/ui"],
-            stateManagement: ["Zustand", "Context API"]
+            state: ["Zustand", "Context API"]
         },
         
         backend: {
@@ -50,22 +50,10 @@ class Developer {
         },
         
         ai_devOps: {
-            ai: ["Google Gemini API", "LLM Orchestration"],
-            automation: ["Inngest Workflows", "Agentic Pipelines"],
-            cloud: ["AWS", "Vercel", "Render", "Docker"]
+            ai: ["Google Gemini API", "LLM Workflows"],
+            automation: ["Inngest Functions", "Agentic AI"],
+            cloud: ["AWS", "Vercel", "Render", "Git", "GitHub"]
         }
-    };
-
-    competitive = {
-        leetcode: {
-            solved: "400+ Problems",
-            focus: ["Dynamic Programming", "Graphs", "Trees", "Arrays"]
-        },
-        achievements: [
-            "🏆 IBM SKILLSBUILD 'Fundamentals of AI' Certified",
-            "🎓 Dakshana Student's Academic Mentor",
-            "⚡ Conducted National Dakshana Scholarship Test"
-        ]
     };
 
     getCurrentFocus(): string[] {
@@ -78,9 +66,9 @@ class Developer {
     }
 
     funFact(): string {
-        return "I turn coffee ☕ into clean code 💻 and complex problems into scalable features! 🚀";
+        return "I turn coffee ☕ into clean code 💻 and bugs into features! 🚀";
     }
 }
 
 const me = new Developer();
-console.log(me.getCurrentFocus());  
+console.log(me.getCurrentFocus());
