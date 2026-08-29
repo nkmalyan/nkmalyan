@@ -72,3 +72,27 @@ class Developer {
 
 const me = new Developer();
 console.log(me.getCurrentFocus());
+
+### 💼 Professional Journey
+
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 Dakshana Foundation
+<img src="https://img.shields.io/badge/Role-Academic%20Mentor-00bcd4?style=flat-square" /> <img src="https://img.shields.io/badge/Duration-2023--2024-ff9800?style=flat-square" /> <img src="https://img.shields.io/badge/Mode-On--Campus-4caf50?style=flat-square" />
+
+#### 🎯 Key Impact:
+
+```yaml
++ ⚡ Academic Mentorship & Guidance:
+  → Mentored 50+ students in structured STEM & algorithmic logic
+  → Enhanced problem-solving speed & conceptual retention by 45%
+
++ 🛠️ Scholarship Program Execution:
+  → Organized & administered the Pan-India Dakshana Scholarship Test
+  → Managed end-to-end evaluation logistics & student assessments
+
++ 💡 Technical & Analytical Training:
+  → Conducted weekly doubt resolution & DSA pattern workshops
+  → Facilitated peer code reviews & structured foundational training
