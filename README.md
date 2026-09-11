@@ -70,4 +70,4 @@ Solving problems consistently as part of interview prep — see [Coding-World](h
 ---
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com) · [LeetCode](https://leetcode.com) · [Email](mailto:nitinkumarmalyan.010@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nitin-kumar-7aab74222) · [LeetCode](https://leetcode.com/u/nkmalyan/) · [Email](mailto:nitinkumarmalyan.010@gmail.com)
