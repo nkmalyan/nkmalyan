@@ -1,6 +1,12 @@
-# Hi, I'm Nitin Kumar 👋
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=160&section=header&text=Nitin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="coding cartoon"/>
 
 ### Full-Stack Developer | B.Tech Electrical Engineering, MNNIT Allahabad (2022–2026)
+
+</div>
 
 I build full-stack web applications and explore agentic AI workflows. Currently sharpening DSA and shipping production-style projects end to end.
 
