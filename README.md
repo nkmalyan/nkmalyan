@@ -60,7 +60,7 @@ A bidirectional chat application built with WebSockets, supporting live messagin
 - Group and direct messaging support
 - Secure file upload pipeline with validation
 
-🔗 [Repo](https://github.com/nkmalyan/realtime-chatapp) · [Live Demo](#) *(https://realtime-chatapp-blue.vercel.app)*
+🔗 [Repo](https://github.com/nkmalyan/realtime-chatapp) · [Live Demo](https://realtime-chatapp-blue.vercel.app)
 
 ---
 
